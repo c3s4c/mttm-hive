@@ -17,7 +17,7 @@
 ```
 [sensor-1]
 [sensor-2]
-[sensor-3] <-wire-> [esp8266] <---> [esp-now(protocol)] <---> [esp32-gatway] <-uart-> [raspberry pi(hive)]
+[sensor-3] <-wire-> [esp8266] <---> [esp-now(protocol)] <---> [esp32-gatway] <-uart-> [raspberry pi(centeral-hive)]
 ```
 
 <hr>
