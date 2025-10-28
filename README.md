@@ -10,3 +10,19 @@
 
 مرسی که همراه ما هستی! 🙌  
 تیم MTTM
+
+
+<hr>
+
+```
+[sensor-1]
+[sensor-2]
+[sensor-3] <-wire-> [esp8266] <---> [esp-now(protocol)] <---> [esp32-gatway] <-uart-> [raspberry pi(hive)]
+```
+
+<hr>
+
+```
+[12V] --> [AMS1117(3.3v)/7805(5v)] --> [esp8266/sensor] 
+```
+
